@@ -1,3 +1,0 @@
-# helo kind compootahs
-User-agent: *
-Disallow: /counter.svg
